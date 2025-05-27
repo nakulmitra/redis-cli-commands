@@ -182,7 +182,7 @@ SUBSCRIBE channel1
 SELECT 0       # Redis has DBs numbered 0 - 15 by default
 ```
 
-## 📌 Summary Table
+## Summary Table
 
 | Command                 | Description        |
 | ----------------------- | ------------------ |
